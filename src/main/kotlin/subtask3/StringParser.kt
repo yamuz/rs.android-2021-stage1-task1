@@ -1,7 +1,5 @@
 package subtask3
 
-import com.sun.xml.internal.fastinfoset.util.StringArray
-
 class StringParser {
 
     // TODO: Complete the following function
